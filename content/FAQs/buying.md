@@ -15,3 +15,11 @@ The HOA charges a $75.00 transfer fee.
 ## How do we initiate the transfer?
 
 Use the [contact information on the main page](/) to contact us.  Typically this is done by the title company.
+
+## What are the HOA rules?
+
+When you buy a home in a HOA you agree to abide by the rules of that community.  Those rules are spelled out in the [CCNR's](/files/CCNRs.pdf).
+
+## Can I run a business like a day care from my home?
+
+In short no according to Article VI, Section 6.1 of the [CCNR's](/files/CCNRs.pdf).

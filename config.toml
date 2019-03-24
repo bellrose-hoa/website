@@ -1,0 +1,34 @@
+baseURL = "http://www.bellrosehoa.com/"
+languageCode = "en-us"
+title = "Bellrose HOA"
+theme = "zen"
+
+MetaDataFormat = "yaml"
+DefaultContentLanguage = "en"
+SectionPagesMenu = "main"
+Paginate = 3 # this is set low for demonstrating with dummy content. Set to a higher number
+googleAnalytics = ""
+enableRobotsTXT = true
+
+[sitemap]
+  changefreq = "monthly"
+  priority = 0.5
+  filename = "sitemap.xml"
+
+[params]
+  contact = "bellrosehoa@gmail.com"
+  copyright = "Images and content copyright of Bellrose HOA"
+  dateformat = "2 January, 2006" 
+  description = "Website for Bellrose HOA, Everett, WA"
+  feedlinks = false           # Show feed links in the footer.
+  footer = "Please contact [bellrosehoa@gmail](mailto:bellrosehoa@gmail.com) with Questions / Comments"
+  image = "images/bellrose-front-a.jpg"
+  jquery = false              # Add jQuery
+  languageDir = ""           # Set ltr or rtl, defaults to ltr.
+  logo = true               # Turn off the logo.
+  mobileMenu = true          # Turn on a mobile menu on small screens.
+  poweredby = false           # Show powered by hugo in footer
+  search = false              # Site search with DuckDuckGo.
+  searchSize = 20            # Search field size, default 20.
+  sidebar = true             # Show a sidebar to the right
+  submitted = true           # Show author and date information for a post.

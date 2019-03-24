@@ -1,0 +1,240 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"la",
+				"labels_test"
+			],
+			[
+				"fea",
+				"features_train"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "config.toml",
+			"settings":
+			{
+				"buffer_size": 1907,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Hugo/Sites",
+		"/C/Hugo/Sites/quickstart",
+		"/C/Hugo/Sites/quickstart/themes",
+		"/C/Hugo/Sites/quickstart/themes/zen"
+	],
+	"file_history":
+	[
+		"/C/Hugo/Sites/quickstart/themes/zen/exampleSite/config.yaml",
+		"/C/Hugo/Sites/quickstart/content/posts/post-1.md",
+		"/C/Hugo/Sites/quickstart/content/index.md",
+		"/C/Hugo/Sites/quickstart/archetypes/default.md",
+		"/C/Hugo/Sites/quickstart/themes/ananke/layouts/index.html",
+		"/C/Hugo/Sites/quickstart/themes/ananke/archetypes/default.md",
+		"/C/Users/Ken/Pictures/bellrose-front.jpg",
+		"/C/Users/Ken/Documents/Projects/bellrosehoa/victor-hugo/site/layouts/index.html",
+		"/C/Users/Ken/Documents/Projects/bellrosehoa/victor-hugo/site/config.toml",
+		"/C/Users/Ken/Documents/Projects/bellrosehoa/victor-hugo/site/content/post/first.md",
+		"/C/Users/Ken/Documents/Projects/bellrosehoa/victor-hugo/site/content/about.md",
+		"/C/Users/Ken/Documents/Projects/bellrosehoa/victor-hugo/themes/hugo-strata-theme/exampleSite/config.toml",
+		"/C/Users/Ken/Documents/Projects/ud120-projects/README.md",
+		"/C/Users/Ken/Documents/Projects/ud120-projects/tools/email_preprocess.py",
+		"/C/Users/Ken/Documents/Projects/ud120-projects/naive_bayes/nb_author_id.py",
+		"/C/Users/Ken/Documents/Projects/ud120-projects/svm/svm_author_id.py",
+		"/C/Users/Ken/Documents/Projects/gaussian_nb/ClassifyNB.py",
+		"/C/Users/Ken/Documents/Projects/gaussian_nb/prep_terrain_data.py",
+		"/C/Users/Ken/Documents/Projects/gaussian_nb/class_vis.py",
+		"/C/Users/Ken/Documents/Projects/gaussian_nb/studentMain.py",
+		"/C/Users/Ken/Documents/Projects/pip-install.py"
+	],
+	"find":
+	{
+		"height": 27.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"Recent Posts"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "config.toml",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 1907,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								319,
+								319
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 39.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "project.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 247.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

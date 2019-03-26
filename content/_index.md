@@ -14,7 +14,7 @@ at the
 
 ## Documents
 
-+ [CCNR's](/files/CCNRs.pdf)
++ [CC&R's](/files/CCNRs.pdf)
 + [Incorporation and Bylaws](/files/Incorporation_and_Bylaws.pdf)
 
 ## HOA Contact information

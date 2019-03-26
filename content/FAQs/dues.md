@@ -10,7 +10,7 @@ The HOA dues are $295.00 annually and are paid / due in January.
 
 ## What happens if we pay late?
 
-As spelled out in the [CCNR's](/files/CCNRs.pdf) a monthly late fee of $35 is applied and a 12% APR is applied against the balance on a monthly basis.  
+As spelled out in the [CC&R's](/files/CCNRs.pdf) a monthly late fee of $35 is applied and a 12% APR is applied against the balance on a monthly basis.  
 
 ## What happens if we don't pay?
 
@@ -24,4 +24,4 @@ Insurance to cover the common areas such as the holding ponds and other common H
 
 Additional the dues cover any maintanence that needs to occur during the year such as mowing/landscaping, etc.
 
-The HOA board members are not paid as spelled out in the [CCNR's](/files/CCNRs.pdf).
+The HOA board members are not paid as spelled out in the [CC&R's](/files/CCNRs.pdf).

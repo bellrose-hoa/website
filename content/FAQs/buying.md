@@ -18,8 +18,8 @@ Use the [contact information on the main page](/) to contact us.  Typically this
 
 ## What are the HOA rules?
 
-When you buy a home in a HOA you agree to abide by the rules of that community.  Those rules are spelled out in the [CCNR's](/files/CCNRs.pdf).
+When you buy a home in a HOA you agree to abide by the rules of that community.  Those rules are spelled out in the [CC&R's](/files/CCNRs.pdf).
 
 ## Can I run a business like a day care from my home?
 
-In short no according to Article VI, Section 6.1 of the [CCNR's](/files/CCNRs.pdf).
+In short no according to Article VI, Section 6.1 of the [CC&R's](/files/CCNRs.pdf).

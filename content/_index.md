@@ -1,16 +1,19 @@
 ---
 title: ""
-date: 2019-03-23T14:19:00-07:00
+date: 2020-01-22T19:26:00-08:00
 draft: false
 omit_header_text: true
 ---
-## Annual Meeting
-The 2019 Annual meeting was held on 
+## Annual Assessments
+The 2020 Annual assessment bills will be in the mail by the end of Jan 2020.  The will be due Feb. 28.  The mailing will include details on the annual meeting and a proxy ballot if you can't make the meeting.
 
-> **Wednesday, March 20th, @7:30PM**
+## Annual Meeting
+The 2020 Annual meeting will be held on 
+
+> **Wednesday, April 15th, @7:00PM**
 at the 
 
-> **Beautiful Savior Church**, 12810 25th Ave SE, Everett, WA 98209.
+> **South County Fire Station 12**, 3525 108th St SE, Everett, WA 98208.
 
 ## Documents
 

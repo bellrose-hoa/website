@@ -1,11 +1,11 @@
 ---
 title: ""
-date: 2020-01-22T19:26:00-08:00
+date: 2022-05-08T08:34:00-08:00
 draft: false
 omit_header_text: true
 ---
 ## Annual Assessments
-The 2022 Annual assessment bills will be in the mail by the end of Jan 2022.  The will be due Feb. 28.
+The 2022 Annual assessment bills will be in the mail by the end of Jan 2022.  The assessment will be due Feb. 28.
 
 ## Annual Meeting
 The 2022 Annual meeting will be held on 

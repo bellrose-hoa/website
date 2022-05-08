@@ -5,15 +5,15 @@ draft: false
 omit_header_text: true
 ---
 ## Annual Assessments
-The 2020 Annual assessment bills will be in the mail by the end of Jan 2020.  The will be due Feb. 28.  The mailing will include details on the annual meeting and a proxy ballot if you can't make the meeting.
+The 2022 Annual assessment bills will be in the mail by the end of Jan 2022.  The will be due Feb. 28.
 
 ## Annual Meeting
-The 2020 Annual meeting will be held on 
+The 2022 Annual meeting will be held on 
 
-> **Wednesday, April 15th, @7:00PM**
+> **Thursday, May 19th, @6:30PM**
 at the 
 
-> **South County Fire Station 12**, 3525 108th St SE, Everett, WA 98208.
+> **Intersection of 34th St and 125th PL.** We are taking into consideration that some homeowners may be reluctant to meet inside in a group setting so have decided to hold the meeting outside come rain or shine. Please bring a chair with you if you wish one. We will review the current financials of the HOA and vote on board members. The current board members have served since 2018 and we are overdue to review/vote on board members. Overall the meeting should be fairly short and not take more than 30 minutes.
 
 ## Documents
 

@@ -22,8 +22,8 @@ We are taking into consideration that some homeowners may still be reluctant to 
 ## HOA Contact information
 Replies may take several weeks depending on the frequency with which email or snail mail is checked.
 
-Email: [bellrosehoa@gmail](mailto:bellrosehoa@gmail.com) <br />
-Snail Mail: <br />
-&nbsp;&nbsp;&nbsp;&nbsp;Bellrose HOA <br />
-&nbsp;&nbsp;&nbsp;&nbsp;PO Box 12252 <br />
+Email: [bellrosehoa@gmail](mailto:bellrosehoa@gmail.com)\
+Snail Mail:\
+&nbsp;&nbsp;&nbsp;&nbsp;Bellrose HOA\
+&nbsp;&nbsp;&nbsp;&nbsp;PO Box 12252\
 &nbsp;&nbsp;&nbsp;&nbsp;Mill Creek, WA 98082

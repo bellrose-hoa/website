@@ -10,7 +10,7 @@ The 2023 Annual assessment bills were mailed in Jan 2023.  The assessment was du
 ## Annual Meeting
 The 2023 Annual meeting will be held on 
 
-**Thursday, May 19th 2023, @6:30PM** at the **Intersection of 34th St and 125th PL.**
+**Thursday, May 18th 2023, @6:30PM** at the **Intersection of 34th St and 125th PL.**
 
 We are taking into consideration that some homeowners may still be reluctant to meet inside in a group setting so we have decided to hold the meeting outside come rain or shine. Please bring a chair with you if you wish one. We will review the current financials of the HOA and vote on board members. The current board members have served since 2018 and we are overdue to review/vote on board members. Overall the meeting should be fairly short and not take more than 30 minutes.
 

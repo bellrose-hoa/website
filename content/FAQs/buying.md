@@ -4,7 +4,7 @@ date: 2019-03-24T11:31:14-07:00
 draft: false
 ---
 
-## How do I find out if the home is current on their dues or has a lien?
+## How do I find out if the home is current on their assessment or has a lien?
 
 Use the [contact information on the main page](/) to contact us and we can let you know if the property is current and/or has a lien against it.
 

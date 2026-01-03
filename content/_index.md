@@ -5,12 +5,14 @@ draft: false
 omit_header_text: true
 ---
 ## Annual Assessments
-The 2025 Annual assessment bills were mailed in Jan 2025.  The assessment is due Feb. 28. If you have not received your bill please contact us.
+The 2026 annual assessment bills will be mailed middle of Jan 2026.  The assessment is due Feb. 28 2026. If you have not received your bill please contact us.
 
 ## Annual Meeting
-The 2025 Annual meeting will be held on 
+The 2026 Annual meeting is being planned for 
 
-Wednesday, March 26th 2025, @7:00PM at the South County Fire Station 12 Meeting Room. The address is 3525 108th St SE, Everett, WA 98208 and is approximately 2 minutes away north on 35th Street.
+Wednesday, March 18th 2026, @7:00PM at the [South County Fire Station 12 Meeting Room](https://maps.app.goo.gl/x8EDuPv8nQgoB2Ef8).
+
+The address is 3525 108th St SE, Everett, WA 98208 and is approximately 2 minutes away north on 35th Street.
 
 
 ## Documents

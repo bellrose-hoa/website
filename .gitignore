@@ -1,2 +1,4 @@
 resources
 project.sublime*
+.hugo_build.lock
+public

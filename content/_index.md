@@ -8,7 +8,7 @@ omit_header_text: true
 The 2026 annual assessment bills will be mailed middle of Jan 2026.  The assessment is due Feb. 28 2026. If you have not received your bill please contact us.
 
 ## Annual Meeting
-The 2026 Annual meeting is being planned for 
+The 2026 Annual meeting is scheduled for 
 
 Wednesday, March 18th 2026, @7:00PM at the [South County Fire Station 12 Meeting Room](https://maps.app.goo.gl/x8EDuPv8nQgoB2Ef8).
 
